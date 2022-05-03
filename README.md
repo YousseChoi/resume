@@ -1,12 +1,14 @@
 ### 지원분야 : 구매자재
 
 ## 기본신상
+<img width="25%" src=https://github.com/YousseChoi/resume/blob/main/ChoiYS43.jpg>
+
+* 성명 : 최유성
 * 생년월일 : 1985.05.07    
 * 연락처 : 010-3434-5691
 * Email: yousayaa@naver.com
 * 거주지: 경기도 안산시 상록구 분대길14
 * 병역사항: 공군 필
-* 직전연봉: 4,467만원
 
 
 
@@ -207,12 +209,3 @@
   - GROUP사 MAGNA INTIER 품질 비용 종합 및 보고
 
 
-
-<div>
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/143905196-74a8e3a7-2036-4a7c-9d58-dd8e6112a217.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/143907558-8e85197a-d5cc-457b-bf14-a89fc7d0b8f9.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/143905219-351d8e5a-e64a-4af5-a1e2-251d726d3af9.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/143905230-6c0c68f3-39b2-4059-9fd1-8df85b1d98e4.png">
-<img width="15%" src="https://user-images.githubusercontent.com/31702431/143905247-c614d496-f9ed-4188-ab17-52b7cd624599.png">
-</div>
-<br>
